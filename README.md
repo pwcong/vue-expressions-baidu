@@ -1,4 +1,4 @@
-![](http://i1.piimg.com/567571/ed9de13efe043b12.gif)
+![preview](https://github.com/pwcong/SnapShot/blob/master/react-expressions/demo.gif?raw=true)
 
 # vue-expressions-baidu
 A Vue Component about Baidu Expressions.
